@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Tilemap/Tiles/Terrain Tile/Terrain Tile.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

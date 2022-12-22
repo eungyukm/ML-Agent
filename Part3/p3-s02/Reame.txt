@@ -1,0 +1,28 @@
+===========================================
+'Unity 디자이너스 바이블' 샘플 프로그램
+
+Part 3／Section 02 'Tilemap: 2D 맵 효과적으로 만들기'
+===========================================
+
+이 샘플은 주식회사 본 디지털에서 발행/발매한 'Unity 디자이너스 바이블'의  'Part 3／Section 02 Tilemap：2D 맵 효과적으로 만들기'의 샘플 프로젝트입니다.
+
+■ 개요
+  이 프로젝트는 Git을 설치하지 않은 환경에서도 [2d-extras]（https://github.com/Unity-Technologies/2d-extras）를 사용할 수 있도록 Unity 공식 샘플 [2d-techdemos]（https://github.com/Unity-Technologies/2d-techdemos）을 수정한 프로젝트입니다. 
+
+
+■ 파일/폴더 구성
+  - Assets/Tilemap: 2d-techdemos의 코드 및 에셋입니다.
+  - Assets/2dExtras: 2d-extras의 코드 및 에셋입니다.
+
+  또한 README_2d_techdemos.md는 2d-techdemos의 README.md로 이름을 변경했습니다.
+
+
+■ 버전
+　이 프로그램은 각각 다음 버전을 복사 혹은 수정한 것입니다.
+  - 2d-extras    : 18cae2921070fc149efc3e9a0b410df35309db73
+  - 2d-techdemos : 8d3ce8183cc0c1e7f5bc9645bffc1204773aab39
+
+
+■ 라이선스 
+  2d-extras는 Unity Companion License를 따르며, 일부 MIT 라이선스 코드를 포함하고 있습니다.
+  2d-techdemos는 MIT 라이선스를 따릅니다.

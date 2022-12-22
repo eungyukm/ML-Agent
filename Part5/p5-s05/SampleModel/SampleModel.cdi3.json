@@ -1,0 +1,426 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "LopYearLShake",
+			"GroupId": "ParamGroup3",
+			"Name": "右ロップイヤー揺れ"
+		},
+		{
+			"Id": "LopYearRShake",
+			"GroupId": "ParamGroup3",
+			"Name": "左ロップイヤー振れ"
+		},
+		{
+			"Id": "ParamHairFront",
+			"GroupId": "ParamGroup3",
+			"Name": "髪揺れ　前"
+		},
+		{
+			"Id": "ParamHairSide",
+			"GroupId": "ParamGroup3",
+			"Name": "髪揺れ　横"
+		},
+		{
+			"Id": "ParamHairBack",
+			"GroupId": "ParamGroup3",
+			"Name": "髪揺れ　後"
+		},
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "ParamGroup4",
+			"Name": "角度 X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "ParamGroup4",
+			"Name": "角度 Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "ParamGroup4",
+			"Name": "角度 Z"
+		},
+		{
+			"Id": "ParamBrowRForm",
+			"GroupId": "ParamGroup4",
+			"Name": "右眉　変形"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"GroupId": "ParamGroup4",
+			"Name": "左眉　変形"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "ParamGroup4",
+			"Name": "口　変形"
+		},
+		{
+			"Id": "ParamCheek",
+			"GroupId": "ParamGroup4",
+			"Name": "照れ"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "ParamGroup4",
+			"Name": "目玉 X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "ParamGroup4",
+			"Name": "目玉 Y"
+		},
+		{
+			"Id": "PARAM_EYE_R_OPEN",
+			"GroupId": "ParamGroup",
+			"Name": "右目　開閉"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"GroupId": "ParamGroup",
+			"Name": "右目　笑顔"
+		},
+		{
+			"Id": "ParamEyeRScale",
+			"GroupId": "ParamGroup",
+			"Name": "右目玉拡縮"
+		},
+		{
+			"Id": "PARAM_EYE_L_OPEN",
+			"GroupId": "ParamGroup2",
+			"Name": "左目　開閉"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "ParamGroup2",
+			"Name": "左目　笑顔"
+		},
+		{
+			"Id": "ParamEyeLScale",
+			"GroupId": "ParamGroup2",
+			"Name": "左目玉拡縮"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "ParamGroup5",
+			"Name": "呼吸"
+		},
+		{
+			"Id": "ParamBodyAngleX",
+			"GroupId": "ParamGroup5",
+			"Name": "体の回転　X"
+		},
+		{
+			"Id": "ParamBodyAngleY",
+			"GroupId": "ParamGroup5",
+			"Name": "体の回転　Y"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"GroupId": "ParamGroup5",
+			"Name": "体の回転　Z"
+		},
+		{
+			"Id": "PendantShake",
+			"GroupId": "ParamGroup5",
+			"Name": "ペンダント揺れ"
+		},
+		{
+			"Id": "PendantJemShake",
+			"GroupId": "ParamGroup5",
+			"Name": "ペンダント揺れ宝石"
+		},
+		{
+			"Id": "OmunesamaX",
+			"GroupId": "ParamGroup10",
+			"Name": "胸X"
+		},
+		{
+			"Id": "OmunesamaY",
+			"GroupId": "ParamGroup10",
+			"Name": "胸Y"
+		},
+		{
+			"Id": "SkirtShake",
+			"GroupId": "ParamGroup10",
+			"Name": "スカート揺れ"
+		},
+		{
+			"Id": "UpperArmLRotate",
+			"GroupId": "ParamGroup6",
+			"Name": "左上腕回転"
+		},
+		{
+			"Id": "ForearmLRotate",
+			"GroupId": "ParamGroup6",
+			"Name": "左前腕回転"
+		},
+		{
+			"Id": "HandLRotate",
+			"GroupId": "ParamGroup6",
+			"Name": "左手回転"
+		},
+		{
+			"Id": "ThumbLRotate",
+			"GroupId": "ParamGroup6",
+			"Name": "左親指回転"
+		},
+		{
+			"Id": "UpperArmRRotate",
+			"GroupId": "ParamGroup7",
+			"Name": "右上腕回転"
+		},
+		{
+			"Id": "ForearmRRotate",
+			"GroupId": "ParamGroup7",
+			"Name": "右前腕回転"
+		},
+		{
+			"Id": "HandRRotate",
+			"GroupId": "ParamGroup7",
+			"Name": "右手回転"
+		},
+		{
+			"Id": "ThumbRRotate",
+			"GroupId": "ParamGroup7",
+			"Name": "右親指回転"
+		},
+		{
+			"Id": "HipJointLRotate",
+			"GroupId": "ParamGroup8",
+			"Name": "左股関節回転"
+		},
+		{
+			"Id": "KneeLRotate",
+			"GroupId": "ParamGroup8",
+			"Name": "左ひざ回転"
+		},
+		{
+			"Id": "AnkleLRotate",
+			"GroupId": "ParamGroup8",
+			"Name": "左足首回転"
+		},
+		{
+			"Id": "HipJointRRotate",
+			"GroupId": "ParamGroup9",
+			"Name": "右股関節回転"
+		},
+		{
+			"Id": "KneeRRotate",
+			"GroupId": "ParamGroup9",
+			"Name": "右ひざ回転"
+		},
+		{
+			"Id": "AnkleRRotate",
+			"GroupId": "ParamGroup9",
+			"Name": "右足首回転"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "頭揺れ"
+		},
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "顔"
+		},
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "右目"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "左目"
+		},
+		{
+			"Id": "ParamGroup5",
+			"GroupId": "",
+			"Name": "胴体基本動作"
+		},
+		{
+			"Id": "ParamGroup10",
+			"GroupId": "",
+			"Name": "胴体その他動作"
+		},
+		{
+			"Id": "ParamGroup6",
+			"GroupId": "",
+			"Name": "左腕"
+		},
+		{
+			"Id": "ParamGroup7",
+			"GroupId": "",
+			"Name": "右腕"
+		},
+		{
+			"Id": "ParamGroup8",
+			"GroupId": "",
+			"Name": "左足"
+		},
+		{
+			"Id": "ParamGroup9",
+			"GroupId": "",
+			"Name": "右足"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part71",
+			"Name": "designer'sBook_l2d_model_02_output_t6.psd（対応無し）"
+		},
+		{
+			"Id": "Part",
+			"Name": "清書"
+		},
+		{
+			"Id": "PartSketch0",
+			"Name": "[ 下絵 ]"
+		},
+		{
+			"Id": "Part36",
+			"Name": "清書"
+		},
+		{
+			"Id": "Part2",
+			"Name": "ロップイヤー"
+		},
+		{
+			"Id": "Part3",
+			"Name": "顔"
+		},
+		{
+			"Id": "Part11",
+			"Name": "胸"
+		},
+		{
+			"Id": "Part12",
+			"Name": "コルセット"
+		},
+		{
+			"Id": "Part13",
+			"Name": "スカート"
+		},
+		{
+			"Id": "Part16",
+			"Name": "右足"
+		},
+		{
+			"Id": "Part18",
+			"Name": "左足"
+		},
+		{
+			"Id": "Part20",
+			"Name": "右腕"
+		},
+		{
+			"Id": "Part28",
+			"Name": "左腕"
+		},
+		{
+			"Id": "Part4",
+			"Name": "鼻"
+		},
+		{
+			"Id": "Part5",
+			"Name": "左目"
+		},
+		{
+			"Id": "Part8",
+			"Name": "右目"
+		},
+		{
+			"Id": "Part14",
+			"Name": "スカート"
+		},
+		{
+			"Id": "Part15",
+			"Name": "フリル"
+		},
+		{
+			"Id": "Part17",
+			"Name": "太もも"
+		},
+		{
+			"Id": "Part19",
+			"Name": "太もも"
+		},
+		{
+			"Id": "Part21",
+			"Name": "前腕"
+		},
+		{
+			"Id": "Part24",
+			"Name": "フリル前"
+		},
+		{
+			"Id": "Part25",
+			"Name": "手"
+		},
+		{
+			"Id": "Part26",
+			"Name": "上腕"
+		},
+		{
+			"Id": "Part29",
+			"Name": "前腕"
+		},
+		{
+			"Id": "Part32",
+			"Name": "フリル前"
+		},
+		{
+			"Id": "Part33",
+			"Name": "手"
+		},
+		{
+			"Id": "Part34",
+			"Name": "上腕"
+		},
+		{
+			"Id": "Part6",
+			"Name": "目玉"
+		},
+		{
+			"Id": "Part9",
+			"Name": "目玉"
+		},
+		{
+			"Id": "Part22",
+			"Name": "前腕着彩"
+		},
+		{
+			"Id": "Part23",
+			"Name": "すそ着彩"
+		},
+		{
+			"Id": "Part27",
+			"Name": "上腕着彩"
+		},
+		{
+			"Id": "Part30",
+			"Name": "前腕着彩"
+		},
+		{
+			"Id": "Part31",
+			"Name": "すそ着彩"
+		},
+		{
+			"Id": "Part35",
+			"Name": "上腕着彩"
+		},
+		{
+			"Id": "Part7",
+			"Name": "ハイライトクリッピング"
+		},
+		{
+			"Id": "Part10",
+			"Name": "ハイライトクリッピング"
+		}
+	]
+}
